@@ -1,0 +1,2 @@
+# native-ignite-knowlege
+AllMentalNotesAndQuotes
